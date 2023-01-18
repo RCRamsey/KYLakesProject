@@ -3,24 +3,25 @@ A repo to explore arcGIS Pro capabilities, create a variety of visuals from remo
 
 <!-- TOC -->
 ## Table of Contents
-- [Part I. Project Summary Proposal](#part-i-project-summary-proposal)  
-- [Part II. Data Sources](#part-ii-data-sources)  
-    - [Basemap Data](#basemap-data)
-- [Part III. Proposed Visuals](#part-iii-proposed-visuals)
-- [Final Maps](#final-Map)
+- [Part I Project Summary Proposal](#part-i-project-summary-proposal)  
+- [Part II Data Sources And Prep](#part-ii-data-sources-and-prep)  
+    - [KY State Boundary Polygon](#ky-state-boundary-polygon)
+    - [KY Lake and Lake Barkley](#ky-lake-and-lake-barkley)
+- [Part III Proposed Visuals And Steps](#part-iii-proposed-visuals-and-steps)
+- [Final Maps](#final-maps)
 - [Appendix for Readme](#appendix-for-readme)
 <!-- /TOC -->
 
-## Part I: Project Summary Propsal  
+## Part I Project Summary Propsal  
 A project to explore more of the capabilites of ArcGIS Pro. I have worked many years in the ArcGIS world with a variety of it's programs (ArcMap, ArcGIS, ArcGIS Pro). I have also functioned well within the QGIS world (often preferring it). With the flood of tutorials floating around ArcGIS Pro I couldn't help but want to dig more into it's capabilities. I figured focusing on one particular object, in this instance Kentucky Lakes (Kentucky Lake and Lake Barkley), would allow me to tinker with the variety of ways this object can be visualized.  
 
 
-## Part II: Data Sources & Prep
-### KY State Boundary Polygon
+## Part II Data Sources And Prep  
+### KY State Boundary Polygon  
 Obtained from [Kentucky Geography Network](https://kygeoportal.ky.gov/geoportal/catalog/search/resource/details.page?uuid=%7B4AE80BA8-D39F-4D97-A52C-248D5D0478A2%7D)
 
 
-### KY Lake and Lake Barkley 
+### KY Lake and Lake Barkley   
 The polygons for these lakes were obtained through a series of steps necessary for the visuals proposed below.
 1. Searched USGS Global Visualization Viewer [GloVis](https://glovis.usgs.gov/) for [Landsat](https://www.usgs.gov/landsat-missions) imagery data for the region of Kentucky Lake and Lake Barkley during both the summer and winter months. GloVis is browser-based tool that allows easy searching of selected areas of interest for subsets of aerial photography and satellite data from the USGS/EROS archive.
 2. Used ArcGIS Pro Geoprocessing Tool *Composite Bands* to create a single raster dataset from multiple bands. Bands selected for this: 
@@ -85,8 +86,8 @@ The polygons for these lakes were obtained through a series of steps necessary f
 10. Resulting Polygon Layers now ready to Stylize for map visuals   
         <img src="images/lakesReady.jpg" alt="image" width="400"/>
 
-## Part III. Proposed Visuals & Steps  
-### Visual 1
+## Part III Proposed Visuals And Steps    
+### Visual 1  
  Create map/visual to discuss the difference area of water in Winter pool and summer pool of Kentucky Lake and Lake Barkley using Landsat 8 Data.  
 
 ### Visual 2+  
