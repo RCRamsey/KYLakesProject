@@ -86,9 +86,10 @@ The polygons for these lakes were obtained through a series of steps necessary f
         <img src="images/lakesReady.jpg" alt="image" width="400"/>
 
 ## Part III. Proposed Visuals & Steps  
-### **Visual 1** Create map/visual to discuss the difference area of water in Winter pool and summer pool of Kentucky Lake and Lake Barkley using Landsat 8 Data.  
+### Visual 1
+ Create map/visual to discuss the difference area of water in Winter pool and summer pool of Kentucky Lake and Lake Barkley using Landsat 8 Data.  
 
-**Visual 2+**  
+### Visual 2+  
 Play with Kentucky Lake and Lake Barkley polygon layer to create fun new visuals.
 
 ## Final Maps    
