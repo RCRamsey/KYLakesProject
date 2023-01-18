@@ -13,7 +13,7 @@ A repo to explore arcGIS Pro capabilities, create a variety of visuals from remo
 <!-- /TOC -->
 
 ## Part I Project Summary Propsal  
-A project to explore more of the capabilites of ArcGIS Pro. I have worked many years in the ArcGIS world with a variety of it's programs (ArcMap, ArcGIS, ArcGIS Pro). I have also functioned well within the QGIS world (often preferring it). With the flood of tutorials floating around ArcGIS Pro I couldn't help but want to dig more into it's capabilities. I figured focusing on one particular object, in this instance Kentucky Lakes (Kentucky Lake and Lake Barkley), would allow me to tinker with the variety of ways this object can be visualized.  
+A project to explore more of the capabilites of ArcGIS Pro. I have worked many years in the ArcGIS world with a variety of it's programs (ArcMap, ArcGIS, ArcGIS Pro). I have also functioned well within the QGIS world (often preferring it). With the flood of tutorials floating around ArcGIS Pro I couldn't help but want to dig more into it's capabilities. I figured focusing on one particular object, in this instance two Kentucky Lakes (Kentucky Lake and Lake Barkley), would allow me to tinker with the variety of ways this object can be visualized.  
 
 
 ## Part II Data Sources And Prep  
