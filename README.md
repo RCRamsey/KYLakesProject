@@ -1,5 +1,5 @@
 # KYLakesProject
-A repo to expand arcGIS Pro capabilities, create a variety of visuals from remote data, and continue playing in the Python (numpy, pandas, scikit-learn), D3, and R sandbox.
+A repo to explore arcGIS Pro capabilities, create a variety of visuals from remote data, and continue playing in the Python (numpy, pandas, scikit-learn), D3, and R sandbox.
 
 <!-- TOC -->
 ## Table of Contents
@@ -28,11 +28,11 @@ The polygons for these lakes were obtained through a series of steps necessary f
     - Landsat 8 NearInfrared (band 5)
     - Landsat 8 red (band 4)
 
-        Landsat 8 Summer Pool Imagery August, 2 2015 displayed over World Topographic Map in ArcGIS Pro
+        Landsat 8 Summer Pool Imagery August, 2 2015 displayed over World Topographic Map in ArcGIS Pro  
         <img src="images/summerPool02082015.jpg" alt="image" width="400"/>  
         <!-- ![Landsat 8 Summer Pool](images/summerPool02082015.jpg) -->
 
-        Landsat 8 Winter Pool Imagery February, 7 2015 displayed over World Topographic Map in ArcGIS Pro 
+        Landsat 8 Winter Pool Imagery February, 7 2015 displayed over World Topographic Map in ArcGIS Pro  
         <img src="images/winterPool07022015.jpg" alt="image" width="400"/>
         <!-- ![Landsat 8 Winter Pool](images/winterPool07022015.jpg) -->
 3. Used ArcGIS Pro Geoprocessing Tool *Iso Cluster Unsupervised Classification* to classify land cover. Since only looking for lake limited the number of classes to 4.
@@ -82,7 +82,7 @@ The polygons for these lakes were obtained through a series of steps necessary f
         <img src="images/beforeMerge.jpg" alt="image" width="400"/>  
         After cleaning excess polygons for Summer Pool  
         <img src="images/afterMerge.jpg" alt="image" width="400"/>
-9. Resulting Polygon Layers now ready to Stylize for map visuals
+10. Resulting Polygon Layers now ready to Stylize for map visuals   
         <img src="images/lakesReady.jpg" alt="image" width="400"/>
 
 ## Part III. Proposed Visuals & Steps  
@@ -97,9 +97,9 @@ Coming soon, stay tuned in the next couple of weeks
 
 
 ## Appendix for Readme  
-[GloVis](https://pubs.usgs.gov/gip/137/pdf/gip137.pdf) browser-based tool that allows easy searching of selected areas of interest for subsets of aerial photography and satellite data from the USGS/EROS archive. Jarlath O'Neil-Dunne created an excellent youtube tutorial ([Working with Landsat imagery in ArcGIS Pro](https://www.youtube.com/watch?v=bb9_zANr76A)) for utilizing GloVis. 
-![GloVis Description Image](images/glovisDescription.jpg)
+[GloVis](https://pubs.usgs.gov/gip/137/pdf/gip137.pdf) browser-based tool that allows easy searching of selected areas of interest for subsets of aerial photography and satellite data from the USGS/EROS archive. Jarlath O'Neil-Dunne created an excellent youtube tutorial ([Working with Landsat imagery in ArcGIS Pro](https://www.youtube.com/watch?v=bb9_zANr76A)) for utilizing GloVis.  
+<img src="images/glovisDescription.jpg" alt="image" width="600"/>
 
-[Landsat](https://www.usgs.gov/media/images/landsat-missions-timeline) Missions and the timeframe for which they have provided imagery for earth. Respective band designations for Landsat satellites can be found with [USGS](https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites).
-![Landsat Timeline](images/landsatTimeline.jpg)
+[Landsat](https://www.usgs.gov/media/images/landsat-missions-timeline) Missions and the timeframe for which they have provided imagery for earth. Respective band designations for Landsat satellites can be found with [USGS](https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites).  
+<img src="images/landsatTimeline.jpg" alt="image" width="600"/>
 
