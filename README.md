@@ -99,7 +99,7 @@ How to Create a Pen and Ink Stipple Effect in ArcGISPro perhaps?
 ## Final Maps    
 
 Visual 1  
- <img src="images/KYLakesLayout.png" alt="image" width="600"/>
+ <img src="images/KYLakesLayout.png" alt="image" width="1000"/>
 
 Stay tuned in the next couple of weeks for more!  
 
