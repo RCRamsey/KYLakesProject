@@ -88,20 +88,31 @@ The polygons for these lakes were obtained through a series of steps necessary f
 
 ## Part III Proposed Visuals And Steps    
 ### Visual 1  
- Create map/visual to discuss the difference area of water in Winter pool and summer pool of Kentucky Lake and Lake Barkley using Landsat 8 Data.  
+ Create map/visual to discuss the difference between winter pool and summer pool surface area of water for Kentucky Lake and Lake Barkley (within Kentucky) using Landsat 8 Data. Find inspiration in John Nelson's [Before-After Layout](https://www.youtube.com/watch?v=n7FkpV5zVNs).
 
-### Visual 2+  
-Play with Kentucky Lake and Lake Barkley polygon layer to create fun new visuals.
+### Visual 2  
+Play with Kentucky Lake and Lake Barkley polygon to create a visual using textures in ArcGIS Pro?
 
+### Visual 3
+How to Create a Pen and Ink Stipple Effect in ArcGISPro perhaps? 
+ 
 ## Final Maps    
-Coming soon, stay tuned in the next couple of weeks  
+
+Visual 1  
+ <img src="images/KYLakesLayout.png" alt="image" width="600"/>
+
+Stay tuned in the next couple of weeks for more!  
 
 
 
 ## Appendix for Readme  
-[GloVis](https://pubs.usgs.gov/gip/137/pdf/gip137.pdf) browser-based tool that allows easy searching of selected areas of interest for subsets of aerial photography and satellite data from the USGS/EROS archive. Jarlath O'Neil-Dunne created an excellent youtube tutorial ([Working with Landsat imagery in ArcGIS Pro](https://www.youtube.com/watch?v=bb9_zANr76A)) for utilizing GloVis.  
-<img src="images/glovisDescription.jpg" alt="image" width="600"/>
+[GloVis](https://pubs.usgs.gov/gip/137/pdf/gip137.pdf) browser-based tool that allows easy searching of selected areas of interest for subsets of aerial photography and satellite data from the USGS/EROS archive. Jarlath O'Neil-Dunne created an excellent youtube tutorial ([Working with Landsat imagery in ArcGIS Pro](https://www.youtube.com/watch?v=bb9_zANr76A)) for utilizing GloVis.    
+<img src="images/glovisDescription.jpg" alt="image" width="600"/>  
 
-[Landsat](https://www.usgs.gov/media/images/landsat-missions-timeline) Missions and the timeframe for which they have provided imagery for earth. Respective band designations for Landsat satellites can be found with [USGS](https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites).  
-<img src="images/landsatTimeline.jpg" alt="image" width="600"/>
+[Landsat](https://www.usgs.gov/media/images/landsat-missions-timeline) Missions and the timeframe for which they have provided imagery for earth. Respective band designations for Landsat satellites can be found with [USGS](https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites).    
+<img src="images/landsatTimeline.jpg" alt="image" width="600"/>  
 
+Further Inspiration for Visuals found in John Nelson's   
+- [Create a Before-After Layout in ArcGIS Pro](https://www.youtube.com/watch?v=n7FkpV5zVNs)  
+- [One Minute Map Hack: Create a Reverse Area of Interest](https://www.youtube.com/watch?v=Dshs8BCNAxI)  
+- [How to Make a Map Out of Yarn in ArcGIS Pro](https://www.youtube.com/watch?v=XKBzjFLLz2U)   
